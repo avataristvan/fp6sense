@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.fp6sensors"
+    namespace = "app.fp6sense"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.fp6sensors"
+        applicationId = "app.fp6sense"
         minSdk = 26
         targetSdk = 34
         versionCode = 1
