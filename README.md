@@ -76,3 +76,7 @@ Requirements: JDK 21, Android SDK (compile/target SDK 34, min SDK 26).
 Permissions requested at runtime: location (GNSS), camera (proximity overlay, infrared). `HIGH_SAMPLING_RATE_SENSORS` is declared for the motion-based experiments.
 
 Sensor availability and RAW camera support vary between devices; on hardware other than the Fairphone 6, some experiments may not work.
+
+## License
+
+[MIT](LICENSE)
