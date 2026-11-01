@@ -34,3 +34,7 @@ Thumbs.db
 # logs
 *.log
 *_log.txt
+
+# Private / local tooling
+business/
+.claude/
